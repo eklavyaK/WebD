@@ -1,4 +1,4 @@
 # WebD
 ```
-This is remote repository of my local folder where I would create files while learning web development.
+This is remote repository of my local folder where files created while learning web development will be uploaded.
 ```
