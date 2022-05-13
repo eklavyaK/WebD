@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://www.whoa.in/download/green-nature-beautiful-wallpaper");
+    background-size:1600px 800px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#first{
+    background-color: red;
+    color: black;
+}
+#third, #second{
+    background-color: rgb(7, 7, 66);
+    color: white;
+}
+.meet{
+    color: white;
+    Height:100px;
+    width: 600px;
+    background-image:url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
+    background-color: skyblue;
+    background-repeat: no-repeat;
+    background-size: 240px 40px;
+    background-position: center;
+    background-attachment: scroll;
+}
+#fourth{
+    height: 2400px;
+    background-color: rgb(58, 58, 78);
+    width:700px;
+    color: white;
+}
