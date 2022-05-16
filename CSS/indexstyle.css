@@ -22,10 +22,16 @@ body{
     background-size: 240px 40px;
     background-position: center;
     background-attachment: scroll;
+    border-style: solid dashed groove double;
+    border-width: 10px;
+    border-color: rgb(67, 21, 203);
 }
 #fourth{
     height: 2400px;
     background-color: rgb(58, 58, 78);
     width:700px;
     color: white;
+}
+.me{
+    border: 5px solid rgb(205, 15, 15); 
 }

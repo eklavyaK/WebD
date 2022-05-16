@@ -80,5 +80,3 @@ element we do:
     backrgound: <color> <image> <repeat> <attachment> <position>
 
     //these should follow the given order. If any one of the properties is absent then browser moves one and checks for the next property. I mean we can skip any property if we don't want to apply but we cannot change the order.
-
-->

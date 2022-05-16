@@ -1,0 +1,35 @@
+->the structure of a element in a website:
+
+    the innermost part of the element is it's content. Just outside it's content is padding, then border, then the outermost part is margin.
+
+->Setting up margin, padding and border values:
+
+    margin-top: <value_in_px>;
+    margin-bottom: <value_in_px>;
+    margin-right: <value_in_px>;
+    margin-left: <value_in_px>;
+
+    to set all margin, values in one line we do:
+
+    margin: <top_val> <right_val> <bottom_val> <left_val>;             //in clockwise direction
+
+    if we give two values in margin then it takes first one for top-bottom, second for left-right;
+
+->setting up border values
+
+    border-color: <value>;
+    border-style: <value>;
+    border-width: <value_in_px>;
+
+    there are different types of styles for borders like for ex:-
+    solid(most common), dotted, dashed, groove, double
+
+    border shorthand:
+
+    border: <width_val> <*style_val> <color_val>;
+
+    we can also have style shorthand:
+    
+    border-style: solid dashed groove 
+
+->setting 
